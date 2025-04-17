@@ -25,7 +25,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KordonKD.Sprint4.Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KordonKD.Sprint4.Task2.V3.Test", "Tyuiu.KordonKD.Sprint4.Task2.V3.Test\Tyuiu.KordonKD.Sprint4.Task2.V3.Test.csproj", "{AB106134-4E03-4192-9E86-D60EB451EFA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KordonKD.Sprint4.Task2.V3.Lib", "Tyuiu.KordonKD.Sprint4.Task2.V3.Lib\Tyuiu.KordonKD.Sprint4.Task2.V3.Lib.csproj", "{ABD09F73-25E5-4C77-A32D-DDA162B12965}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KardonKD.Sprint4.Task2.V3.Lib", "Tyuiu.KordonKD.Sprint4.Task2.V3.Lib\Tyuiu.KardonKD.Sprint4.Task2.V3.Lib.csproj", "{ABD09F73-25E5-4C77-A32D-DDA162B12965}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{45D815C9-57BC-46B4-B6A4-5CE6EE797D9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
