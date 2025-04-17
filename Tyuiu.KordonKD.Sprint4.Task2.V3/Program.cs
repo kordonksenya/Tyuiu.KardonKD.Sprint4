@@ -1,5 +1,5 @@
-﻿using Tyuiu.KordonKD.Sprint4.Task2.V3.Lib;
-namespace Tyuiu.KordonKD.Sprint4.Task2.V3
+﻿using Tyuiu.KardonKD.Sprint4.Task2.V3.Lib;
+namespace Tyuiu.KardonKD.Sprint4.Task2.V3
 {
     internal class Program
     {
