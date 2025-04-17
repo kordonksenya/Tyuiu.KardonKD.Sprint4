@@ -5,7 +5,7 @@ namespace Tyuiu.KardonKD.Sprint4.Task2.V3.Lib
     {
         public int Calculate(int[] array)
         {
-            \ int sum = 0;
+            int sum = 0;
             for (int i = 0; i <= array.Length - 1; i++)
             {
                 if (array[i] % 2 == 0)

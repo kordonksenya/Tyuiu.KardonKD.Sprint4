@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.KordonKD.Sprint4.Task2.V3.Lib\Tyuiu.KardonKD.Sprint4.Task2.V3.Lib.csproj" />
-  </ItemGroup>
-
 </Project>
